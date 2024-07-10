@@ -6,7 +6,7 @@
 **技术栈:**
 
 <code>![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)</code>
-<code>![Object-C](https://img.shields.io/badge/ObjectC-5490F7?style=flat-square&logo=apple&logoColor=white)</code>
+<code>![Objective-C](https://img.shields.io/badge/ObjectiveC-5490F7?style=flat-square&logo=apple&logoColor=white)</code>
 
 <code>![JavaScript](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)</code>
 <code>![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)</code>
