@@ -1,4 +1,4 @@
-name: 文件自动更新
+name: 文件更新
 
 on:
   # schedule:
